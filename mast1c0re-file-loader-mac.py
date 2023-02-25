@@ -92,6 +92,10 @@ def sendfile():
 
 if __name__ == "__main__":
     window = tk.Tk()
+
+    # Remove menu bar on top
+    window.config(menu=tk.Menu(window))
+
     window.geometry("500x140")
     window.resizable(False, False)
 
