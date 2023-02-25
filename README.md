@@ -7,3 +7,12 @@ I figured it would not be necessary because the progress can be observed on the 
 However with a bit more work, it sure can be implemented.
 
 All credit for mas1c0re go to @McCaulay and @CTurt.
+
+# Troubleshooting
+If you get a launch error, please check you Python installation.
+
+Note:
+This programm needs at least Python3.11 to work flawlessly.
+
+You can donwnload the version of Python I used here:
+https://www.python.org/ftp/python/3.11.2/python-3.11.2-macos11.pkg
